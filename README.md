@@ -11,7 +11,7 @@ Este projeto é um Sistema de Gestão de Tarefas que utiliza autenticação base
 1. Clone o Repositório
 
     ```bash
-    git clone https://github.com/task-management-api-jwt.git
+    [git clone https://github.com/task-management-api-jwt.git](https://github.com/thiagogilcamargo/task-management-api-jwt.git)
     ```
 
 2. Navegue até o Diretório do Projeto
